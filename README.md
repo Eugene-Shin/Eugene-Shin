@@ -1,5 +1,7 @@
 # Hi, I'm Eugene Shin
 
+<img width="1280" height="720" alt="FullSizeRender 크게" src="https://github.com/user-attachments/assets/7da828cd-8ee5-4a7d-a94e-7ddbbbac5247" />
+
 Backend & AI Developer based in Seoul, South Korea.
 
 Passionate about backend developments, and server systems with a strong interest in AI. 
@@ -65,6 +67,7 @@ Bachelor of Engineering in Computer Science and Engineering
 ---
 
 ## 🏆 Awards & Activities
+<img width="1280" height="960" alt="IMG_6898 크게" src="https://github.com/user-attachments/assets/bf941909-b51d-443b-9cfa-19e78e036870" />
 
 - **Dongguk University Computer Engineering Student Council** - Administrative Staff | *2021*
 - **Dongguk University Computer Engineering Student Council** - Head of Administration | *2022*
