@@ -15,8 +15,8 @@ Always eager to learn new technologies and ready to adapt, contribute, and commu
 
 Bachelor of Engineering in Computer Science and Engineering
 
-- GPA: 4.06 / 4.5
-- Academic Excellence Scholarship (Spring 2021, Fall 2021, Spring 2022, Fall 2022, Fall 2025, Spring 2026)
+- **GPA:** 4.06 / 4.5
+- **Academic Excellence Scholarship:** Spring 2021, Fall 2021, Spring 2022, Fall 2022, Fall 2025, Spring 2026
 
 ---
 
@@ -25,42 +25,42 @@ Bachelor of Engineering in Computer Science and Engineering
 ### 🌤️ Bid Weather
 
 **Backend & ML Developer** | *Mar. 2026 – Present*
-Procurement Demand Forecasting Service Based on Weather Data
+*Procurement Demand Forecasting Service Based on Weather Data*
 
-Modeling: Developed a regression model to predict the number of public procurement announcements based on weather conditions.
-NLP Feature Engineering: Utilized KoBERT for encoding textual features to enhance model performance.
-Backend System: Built API services using Spring Boot, FastAPI, with PostgreSQL for data storage and Nginx for reverse proxy.
-Deployment: Containerized the entire backend service with Docker Compose and visualized results through a dashboard interface.
+- **Modeling:** Developed a regression model to predict the number of public procurement announcements based on weather conditions.
+- **NLP Feature Engineering:** Utilized KoBERT for encoding textual features to enhance model performance.
+- **Backend System:** Built API services using Spring Boot, FastAPI, with PostgreSQL for data storage and Nginx for reverse proxy.
+- **Deployment:** Containerized the entire backend service with Docker Compose and visualized results through a dashboard interface.
 
 ### 🚆 Metro Complaint Dispatcher
 
 **Backend & ML Developer** | *Mar. 2026 – Present*
-Automated Complaint Classification & Department Dispatch System
+*Automated Complaint Classification & Department Dispatch System*
 
-Distributed Processing: Implemented asynchronous inter-service communication using Apache Kafka for task requests and callback handling.
-AI Pipeline: Combined RAG with a custom classification model using KoBERT embeddings for accurate complaint routing.
-Backend Architecture: Designed scalable services with Spring Boot, FastAPI, PostgreSQL, and Nginx in a containerized (Docker) environment.
-Automation: Enabled end-to-end automation from complaint ingestion to department assignment with high reliability.
+- **Distributed Processing:** Implemented asynchronous inter-service communication using Apache Kafka for task requests and callback handling.
+- **AI Pipeline:** Combined RAG with a custom classification model using KoBERT embeddings for accurate complaint routing.
+- **Backend Architecture**: Designed scalable services with Spring Boot, FastAPI, PostgreSQL, and Nginx in a containerized (Docker) environment.
+- **Automation:** Enabled end-to-end automation from complaint ingestion to department assignment with high reliability.
 
 ### 🛡️ Fargate Smishing Analyzer
 
 **Backend Developer** | *Jan. 2026 - Feb. 2026*
-Remote Smishing Link Execution & AI-Based Threat Analysis Service
+*Remote Smishing Link Execution & AI-Based Threat Analysis Service*
 
-Containerized Execution: Built and optimized Docker images to safely execute suspicious links in isolated remote environments.
-Threat Scoring: Designed a malicious scoring system to quantify risk levels based on execution results and heuristics.
-Cloud Architecture: Leveraged AWS Fargate to dynamically spawn analysis containers, isolating potentially harmful workloads from the main system.
-AI Explanation: Integrated AI-based analysis to provide interpretable summaries of detected threats.
+- **Containerized Execution:** Built and optimized Docker images to safely execute suspicious links in isolated remote environments.
+- **Threat Scoring:** Designed a malicious scoring system to quantify risk levels based on execution results and heuristics.
+- **Cloud Architecture:** Leveraged AWS Fargate to dynamically spawn analysis containers, isolating potentially harmful workloads from the main system.
+- **AI Explanation:** Integrated AI-based analysis to provide interpretable summaries of detected threats.
 
 ### 🗺️ Location-Based Discount Recommender
 
 **Backend Developer (ETL & Data Pipeline)** | Sep. 2025 - Dec. 2025
-Conversational Mobile App for Location-Based Discount Recommendations
+*Conversational Mobile App for Location-Based Discount Recommendations*
 
-Data Pipeline: Designed and implemented an ETL pipeline to collect and normalize promotional data from financial institutions and partner services.
-Web Crawling: Built a scheduled crawling system using Playwright, automating data extraction and ingestion into the database.
-AI Integration: Supported RAG (Retrieval-Augmented Generation) architecture by managing vector embeddings and data preprocessing for recommendation quality.
-Data Reliability: Ensured data freshness and consistency through periodic batch processing and validation logic.
+- **Data Pipeline:** Designed and implemented an ETL pipeline to collect and normalize promotional data from financial institutions and partner services.
+- **Web Crawling:** Built a scheduled crawling system using Playwright, automating data extraction and ingestion into the database.
+- **AI Integration:** Supported RAG (Retrieval-Augmented Generation) architecture by managing vector embeddings and data preprocessing for recommendation quality.
+- **Data Reliability:** Ensured data freshness and consistency through periodic batch processing and validation logic.
 
 ---
 
@@ -102,12 +102,6 @@ Data Reliability: Ensured data freshness and consistency through periodic batch 
   <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=nginx&logoColor=white" />&nbsp
   
 </div>
-
----
-
-## 📊 GitHub Stats
-
-![Eugene's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eugene-Shin&show_icons=true&theme=radical)
 
 ---
 
