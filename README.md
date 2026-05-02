@@ -24,7 +24,7 @@ Bachelor of Engineering in Computer Science and Engineering
 
 ### 🌤️ Bid Weather
 
-**Backend & ML Developer** | *Mar. 2026 – Present*
+**Backend & ML Developer** | *Mar. 2026 – Present* <br>
 *Procurement Demand Forecasting Service Based on Weather Data*
 
 - **Modeling:** Developed a regression model to predict the number of public procurement announcements based on weather conditions.
@@ -34,7 +34,7 @@ Bachelor of Engineering in Computer Science and Engineering
 
 ### 🚆 Metro Complaint Dispatcher
 
-**Backend & ML Developer** | *Mar. 2026 – Present*
+**Backend & ML Developer** | *Mar. 2026 – Present* <br>
 *Automated Complaint Classification & Department Dispatch System*
 
 - **Distributed Processing:** Implemented asynchronous inter-service communication using Apache Kafka for task requests and callback handling.
@@ -44,7 +44,7 @@ Bachelor of Engineering in Computer Science and Engineering
 
 ### 🛡️ Fargate Smishing Analyzer
 
-**Backend Developer** | *Jan. 2026 - Feb. 2026*
+**Backend Developer** | *Jan. 2026 - Feb. 2026* <br>
 *Remote Smishing Link Execution & AI-Based Threat Analysis Service*
 
 - **Containerized Execution:** Built and optimized Docker images to safely execute suspicious links in isolated remote environments.
@@ -54,7 +54,7 @@ Bachelor of Engineering in Computer Science and Engineering
 
 ### 🗺️ Location-Based Discount Recommender
 
-**Backend Developer (ETL & Data Pipeline)** | Sep. 2025 - Dec. 2025
+**Backend Developer (ETL & Data Pipeline)** | Sep. 2025 - Dec. 2025 <br>
 *Conversational Mobile App for Location-Based Discount Recommendations*
 
 - **Data Pipeline:** Designed and implemented an ETL pipeline to collect and normalize promotional data from financial institutions and partner services.
@@ -70,7 +70,7 @@ Bachelor of Engineering in Computer Science and Engineering
 - **Dongguk University Computer Engineering Student Council** - Head of Administration | *2022*
 - **GDG (Google Developer Groups)** - Study Participant | *Winter 2025*
 - **ORACLE** - Seminar Participant | *Mar. 2026*
-- * **UMC (University MakeUs Challenge)** - Challenger (10th) & Server Part | *Mar. 2026 – Present*
+- **UMC (University MakeUs Challenge)** - Challenger (10th) & Server Part | *Mar. 2026 – Present*
 
 ---
 
