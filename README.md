@@ -99,6 +99,8 @@ Data Reliability: Ensured data freshness and consistency through periodic batch 
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonEC2&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=nginx&logoColor=white" />&nbsp
+  
 </div>
 
 ---
