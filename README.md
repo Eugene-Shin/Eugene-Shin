@@ -34,7 +34,8 @@ Bachelor of Engineering in Computer Science and Engineering
 - **Backend System:** Built API services using Spring Boot, FastAPI, with PostgreSQL for data storage and Nginx for reverse proxy.
 - **Deployment:** Containerized the entire backend service with Docker Compose and visualized results through a dashboard interface.
 
-### 🚆 Metro Complaint Dispatcher
+### 🚆 Seoul Metro Corporation Complaint Dispatcher
+<img width="1280" height="960" alt="IMG_7207 크게" src="https://github.com/user-attachments/assets/a32510f2-0a27-418a-8e1d-884cf2f28531" />
 
 **Backend & ML Developer** | *Mar. 2026 – Present* <br>
 *Automated Complaint Classification & Department Dispatch System*
