@@ -7,7 +7,7 @@ Backend & AI Developer based in Seoul, South Korea.
 Passionate about backend developments, and server systems with a strong interest in AI. 
 Always eager to learn new technologies and ready to adapt, contribute, and communicate effectively in any environment.
 
-🔗 [LinkedIn]() | 🐈‍⬛ [GitHub](https://github.com/Eugene-Shin) | 📝 [Tistory](https://devzin.tistory.com/)
+🔗 [LinkedIn](www.linkedin.com/in/Eugene-Shin-Dev) | 🐈‍⬛ [GitHub](https://github.com/Eugene-Shin) | 📝 [Tistory](https://devzin.tistory.com/)
 
 ---
 
