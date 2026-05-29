@@ -24,26 +24,28 @@ Bachelor of Engineering in Computer Science and Engineering
 
 ## 📂 Projects
 
-### 🌤️ Bid Weather
-
-**Backend & ML Developer** | *Mar. 2026 – Present* <br>
-*Procurement Demand Forecasting Service Based on Weather Data*
-
-- **Modeling:** Developed a regression model to predict the number of public procurement announcements based on weather conditions.
-- **NLP Feature Engineering:** Utilized KoBERT for encoding textual features to enhance model performance.
-- **Backend System:** Built API services using Spring Boot, FastAPI, with PostgreSQL for data storage and Nginx for reverse proxy.
-- **Deployment:** Containerized the entire backend service with Docker Compose and visualized results through a dashboard interface.
-
 ### 🚆 Seoul Metro Corporation Complaint Dispatcher
 <img width="1280" height="960" alt="IMG_7207 크게" src="https://github.com/user-attachments/assets/a32510f2-0a27-418a-8e1d-884cf2f28531" />
 
 **Backend & ML Developer** | *Mar. 2026 – Present* <br>
 *Automated Complaint Classification & Department Dispatch System*
 
-- **Distributed Processing:** Implemented asynchronous inter-service communication using Apache Kafka for task requests and callback handling.
-- **AI Pipeline:** Combined RAG with a custom classification model using KoBERT embeddings for accurate complaint routing.
-- **Backend Architecture**: Designed scalable services with Spring Boot, FastAPI, PostgreSQL, and Nginx in a containerized (Docker) environment.
-- **Automation:** Enabled end-to-end automation from complaint ingestion to department assignment with high reliability.
+- **Distributed Processing:** Implemented asynchronous inter-service communication using Apache Kafka across three topics — embedding trigger, batch file classification request, and single-complaint classification request — with callback-based result propagation.
+- **AI Pipeline:** Applied a two-stage RAG pipeline — KURE-v1 embeddings + pgvector cosine similarity for process code assignment, then top-N retrieval + Qwen3.6 27B for department dispatching.
+- **Multi-Environment Configuration:** Separated deployment configs across two environments — on-premises (Docker Compose) and AWS ECS — using Spring profile-based YAML files, environment-specific Dockerfiles, and per-environment Nginx configurations.
+- **LLM Integration:** Self-hosted Qwen3.6 27B on a dedicated server using Ollama and integrated it via the OpenAI-compatible REST API, enabling seamless replacement without SDK changes.
+- **CI/CD:** Automated the full deployment pipeline with GitHub Actions — on push to main, builds a Gradle JAR, packages three Docker images (Spring Boot, FastAPI, Nginx), pushes them to AWS ECR with commit SHA tags, and force-deploys each service to AWS ECS by registering updated task definitions with injected GitHub Secrets.
+
+### 🌤️ Bid Weather
+<img width="1243" height="659" alt="스크린샷 2026-05-29 오후 5 52 19" src="https://github.com/user-attachments/assets/a17f8207-f102-425b-add2-4e9cbadb0ec0" />
+
+**Backend & ML Developer** | *Mar. 2026 – June. 2026* <br>
+*Procurement Demand Forecasting Service Based on Weather Data*
+
+- **Modeling:** Trained two LightGBM regression models to predict the number of public procurement announcements based on weather, date, and auto regressive-lag features.
+- **Async Event Pipeline:** Designed a Kafka-based async pipeline — Spring Boot scheduler triggers daily data ingestion (G2B, KMA, Holiday APIs), publishes events to Kafka, and the ai-server consumes them to run classification and forecasting sequentially.
+- **Backend System:** Built REST APIs with Spring Boot and FastAPI; real-time prediction results delivered to the frontend via Server-Sent Events (SSE). PostgreSQL with pgvector for vector similarity search, Flyway for schema migration, Nginx as reverse proxy.
+- **Deployment:** Containerized the entire backend service with Docker Compose and visualized results through a dashboard interface.
 
 ### 🛡️ Fargate Smishing Analyzer
 
